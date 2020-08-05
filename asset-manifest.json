@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chirita/static/css/main.0520d7c9.chunk.css",
-    "main.js": "/chirita/static/js/main.c3bceb56.chunk.js",
-    "main.js.map": "/chirita/static/js/main.c3bceb56.chunk.js.map",
+    "main.css": "/chirita/static/css/main.a41c6765.chunk.css",
+    "main.js": "/chirita/static/js/main.493ac961.chunk.js",
+    "main.js.map": "/chirita/static/js/main.493ac961.chunk.js.map",
     "runtime-main.js": "/chirita/static/js/runtime-main.c8f6fb47.js",
     "runtime-main.js.map": "/chirita/static/js/runtime-main.c8f6fb47.js.map",
     "static/js/2.0bdfeac5.chunk.js": "/chirita/static/js/2.0bdfeac5.chunk.js",
     "static/js/2.0bdfeac5.chunk.js.map": "/chirita/static/js/2.0bdfeac5.chunk.js.map",
     "index.html": "/chirita/index.html",
-    "precache-manifest.9a5fcae8a6dfbae676475f7a19944245.js": "/chirita/precache-manifest.9a5fcae8a6dfbae676475f7a19944245.js",
+    "precache-manifest.8802a8dd11aafa45557cc892e04537f7.js": "/chirita/precache-manifest.8802a8dd11aafa45557cc892e04537f7.js",
     "service-worker.js": "/chirita/service-worker.js",
-    "static/css/main.0520d7c9.chunk.css.map": "/chirita/static/css/main.0520d7c9.chunk.css.map",
+    "static/css/main.a41c6765.chunk.css.map": "/chirita/static/css/main.a41c6765.chunk.css.map",
     "static/js/2.0bdfeac5.chunk.js.LICENSE.txt": "/chirita/static/js/2.0bdfeac5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c8f6fb47.js",
     "static/js/2.0bdfeac5.chunk.js",
-    "static/css/main.0520d7c9.chunk.css",
-    "static/js/main.c3bceb56.chunk.js"
+    "static/css/main.a41c6765.chunk.css",
+    "static/js/main.493ac961.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14d723fa67a662be1da17096a3e4e2c0",
+    "revision": "f2da80f0732f11623d1607a21163c9ba",
     "url": "/chirita/index.html"
   },
   {
-    "revision": "bbd86e7410bcc6408343",
-    "url": "/chirita/static/css/main.0520d7c9.chunk.css"
+    "revision": "54ff4edaa849f0a15262",
+    "url": "/chirita/static/css/main.a41c6765.chunk.css"
   },
   {
     "revision": "075a4cc3bdcfc253fbeb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chirita/static/js/2.0bdfeac5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bbd86e7410bcc6408343",
-    "url": "/chirita/static/js/main.c3bceb56.chunk.js"
+    "revision": "54ff4edaa849f0a15262",
+    "url": "/chirita/static/js/main.493ac961.chunk.js"
   },
   {
     "revision": "0e5888268ab75aebbafc",
