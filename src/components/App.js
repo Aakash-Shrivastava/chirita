@@ -20,7 +20,15 @@ function App() {
         </a> */}
       </header>
       <body>
-      <span>Artisan Made | Eco-Friendly | Handloom | Sustainable | Lifestyle Products.<br>Based in SoCal &amp; AMS <br>Shipping worldwide!🌎<br>💌~ info.chirita@gmail.com</span>
+      <div className="subHeader">
+        Artisan Made | Eco-Friendly | Handloom | Sustainable | Lifestyle Products.
+        <br/>
+        Based in SoCal &amp; AMS 
+        <br/>
+        Shipping worldwide!
+        <br/>
+        info.chirita@gmail.com
+      </div>
       <a class="yLUwa" href="https://l.instagram.com/?u=https%3A%2F%2Fm.facebook.com%2FCHIRITAbyAnuja.K%2F&amp;e=ATNiH9gBpwxCyrYnhjf85vYEjr1_bLkbX8_YB98G7SULq80nvpZXtL7ThcRY5ckQrS7NzNzxPIJmf3-ZtZi-V3uozx7nwpdTWk_Cjg&amp;s=1" page_id="profilePage" rel="me nofollow noopener noreferrer" target="_blank">m.facebook.com/CHIRITAbyAnuja.K</a>
       </body>
     </div>

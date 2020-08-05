@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.subHeader{
+  padding: 20px;
+}
 .App-link {
   color: #61dafb;
 }
