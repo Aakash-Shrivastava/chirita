@@ -11,10 +11,12 @@ import ListItemText from '@material-ui/core/ListItemText';
 import InboxIcon from '@material-ui/icons/MoveToInbox';
 import MailIcon from '@material-ui/icons/Mail';
 import MenuIcon from '@material-ui/icons/Menu';
+import CloseIcon from '@material-ui/icons/Close';
+import { Box } from '@material-ui/core';
 
 const useStyles = makeStyles({
   list: {
-    width:450,
+    width: "50vh",
   },
   fullList: {
     width: 'auto',
@@ -48,12 +50,19 @@ export default function TemporaryDrawer() {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        {['SHOP', 'ABOUT', 'CONTACT', 'STOCKIST','PRESS','WHOLESALE'].map((text, index) => (
-          <ListItem button key={text}>
-            <ListItemIcon>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon>
-            <ListItemText primary={text} />
+          <ListItem button key={"close"}>
+            {/* <ListItemIcon></ListItemIcon> */}
+            <CloseIcon/>
           </ListItem>
-        ))}
+          <Box style={{paddingLeft:"10%"}}>
+            {['SHOP', 'ABOUT', 'CONTACT', 'STOCKIST','PRESS','WHOLESALE'].map((text, index) => (
+              <ListItem button key={text}>
+                {/* <ListItemIcon>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon> */}
+                <ListItemText primary={text} />
+              </ListItem>
+            ))}
+          </Box>
+        
       </List>
       {/* <Divider />
       <List>
